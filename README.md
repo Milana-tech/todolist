@@ -2,7 +2,7 @@
 
 **ToDoist** is a simple and powerful to-do list web application that helps users manage tasks efficiently with features like filtering, due dates, task status tracking and more.
 
----
+---------
 
 ## 🧩 Features
 
@@ -16,4 +16,4 @@
   - Completed
   - Pending
   - Due Today (optional)
-    It is also responsive!
+  - It is also responsive!
